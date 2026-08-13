@@ -4,9 +4,6 @@ This project processes and visualizes federal healthcare quality data from the C
 
 The goal was to transform raw, multi-state clinical quality metrics into an interactive, single-page Executive Summary Dashboard in Power BI. The resulting deliverable allows decision-makers to evaluate state-level performance across key healthcare domains within seconds.
 
-📸 Executive Dashboard Preview
-(Tip: Replace the placeholder link below with your actual dashboard screenshot file path!)
-
 🛠️ Data Cleaning & ETL Process (Power Query)
 Raw public health datasets often contain structural errors, non-numeric placeholders, and duplicate entries that break aggregations in Business Intelligence tools. Using Power Query, I performed the following data transformations:
 
@@ -53,4 +50,4 @@ Data Source: Centers for Medicare & Medicaid Services (CMS) Public Healthcare Qu
 🚀 How to View
 Power BI File: Clone this repository and open Healthcare_Quality_Executive_Summary.pbix directly in Power BI Desktop.
 
-Static Snapshot: Check the screenshots/ directory for high-resolution images of the interactive report layout.
+Static Snapshot: Check the ScreenShots/ directory for high-resolution images of the interactive report layout.
